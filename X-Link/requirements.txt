@@ -1,0 +1,5 @@
+docker_py==1.10.6
+Flask==3.0.3
+psutil==5.9.8
+sql==2022.4.0
+Werkzeug==3.0.2
